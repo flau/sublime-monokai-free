@@ -49,7 +49,7 @@
                 <!-- Global settings -->
                 <key>background</key>                   <string>#272822</string>
                 <key>foreground</key>                   <string>#f8f8f2</string>
-                <key>caret</key>                        <string>#e6db74</string>
+                <key>caret</key>                        <string>#e6db74</string> <!-- Default: #F8F8F0 -->
                 <key>lineHighlight</key>                <string>#f8f8f21a</string> <!-- Alpha 1a ~= 10%. -->
 
                 <!-- Accents -->
@@ -109,7 +109,7 @@
                 <key>inactiveSelectionBorder</key>      <string></string>
 
                 <!-- Find -->
-                <key>highlight</key>                    <string>#e6db74</string>
+                <key>highlight</key>                    <string>#ffffff</string>
                 <key>findHighlight</key>                <string>#a1efe4</string>
                 <key>findHighlightForeground</key>      <string>#272822</string>
 
