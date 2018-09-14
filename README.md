@@ -2,6 +2,10 @@
 
 A beautiful, modern, high quality, Monokai theme for Sublime Text 3.
 
+Forked in order to make a few modifcations: -
+* Change selected text box back to white from yellow
+* Original highlighted text colouring
+
 [![Build Status](https://img.shields.io/travis/gerardroche/sublime-monokai-free/master.svg?style=flat-square)](https://travis-ci.org/gerardroche/sublime-monokai-free) [![Build status](https://img.shields.io/appveyor/ci/gerardroche/sublime-monokai-free/master.svg?style=flat-square)](https://ci.appveyor.com/project/gerardroche/sublime-monokai-free/branch/master) [![Minimum Sublime Version](https://img.shields.io/badge/sublime-%3E%3D%203.0-brightgreen.svg?style=flat-square)](https://sublimetext.com) [![Latest Stable Version](https://img.shields.io/github/tag/gerardroche/sublime-monokai-free.svg?style=flat-square&label=stable)](https://github.com/gerardroche/sublime-monokai-free/tags) [![GitHub stars](https://img.shields.io/github/stars/gerardroche/sublime-monokai-free.svg?style=flat-square)](https://github.com/gerardroche/sublime-monokai-free/stargazers) [![Downloads](https://img.shields.io/packagecontrol/dt/MonokaiFree.svg?style=flat-square)](https://packagecontrol.io/packages/MonokaiFree) [![Author](https://img.shields.io/badge/twitter-gerardroche-blue.svg?style=flat-square)](https://twitter.com/gerardroche)
 
 * Enhanced syntax highlighting for PHP, HTML, CSS, Markdown, JavaScript, Ruby, Python.
