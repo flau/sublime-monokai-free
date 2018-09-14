@@ -3,6 +3,7 @@
 Forked in order to make a few modifcations: -
 * Change selected text box back to white from yellow
 * Original highlighted text colouring
+* Invalid highlighting
 
 
 A beautiful, modern, high quality, Monokai theme for Sublime Text 3.
