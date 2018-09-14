@@ -97,8 +97,8 @@
                 <key>gutterForeground</key>             <string>#75715e</string>
 
                 <!-- Selection -->
-                <key>selection</key>                    <string>#75715e</string>
-                <key>selectionForeground</key>          <string>#272822</string>
+                <key>selection</key>                    <string>#49483E</string>
+                <key>selectionForeground</key>          <string></string>
                 <key>selectionBorder</key>              <string></string>
                 <key>inactiveSelection</key>            <string>#75715e</string>
                 <!-- The inactive selection foreground doesn't work.
